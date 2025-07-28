@@ -1,6 +1,6 @@
 <!-- 🌟 Personal Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2E86C1&center=true&width=1000&lines=Electrical+and+Electronic+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2E86C1&center=true&width=1000&lines=Electrical+and+Electronics+Engineer" alt="Typing SVG" />
 </p>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selmabutun&theme=vue" alt="GitHub Achievements Summary Card" />
